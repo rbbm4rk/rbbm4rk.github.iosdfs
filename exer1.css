@@ -86,7 +86,7 @@ button{
 
 .card{
     width: 200px;
-    height: 230px;
+    height: 180px;
     display: inline-block;
     border-radius: 10px;
     padding: 15px 25px;
@@ -112,7 +112,14 @@ button{
 
 .card4{
     background-image: url("assets/pic-4.png");
-    font-size: 18px;
+}
+
+.card5{
+    background-image: url("assets/pic-5.png");
+}
+
+.card6{
+    background-image: url("assets/pic-6.png");
 }
 
 .card:hover{
@@ -143,3 +150,4 @@ h5{
 #card-heading4{
     font-size: 18px;
 }
+
